@@ -14,5 +14,7 @@ python pyftk.py nyt_parse_trees.pkl similarity_row
 pyftk requires Python 3.7 to be installed to be executed, as well as the following packages:
 
 NLTK
+
 pathlib
+
 pickle
